@@ -2,7 +2,7 @@
 # 💫 About Me: 
 ![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
 <h1 align="center">Hi 👋, I'm Bheeni Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Passionate frontend developer dedicated to crafting seamless and responsive user experiences."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bheeni14&label=Profile%20views&color=0e75b6&style=flat" alt="bheeni14" /> </p>
 
