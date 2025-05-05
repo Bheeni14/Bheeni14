@@ -9,8 +9,6 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bheeni-agarwal-0875b6264/)
 - 📫 How to reach me: **[Email me](mailto:bheeniagarwal14@gmail.com)**
 
-![image](https://github.com/Bheeni14/Bheeni14/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
-
 ---
 
 Welcome to my profile! Here's a quick snippet about me in JavaScript:
