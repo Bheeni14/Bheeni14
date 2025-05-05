@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Aryaman Gupta!
+# Hi there 👋, I'm Bheeni Agarwal!
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **🚀Aspiring Data Analyst**
