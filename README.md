@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Bheeni Agarwal!
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **🚀Aspiring Data Analyst**
+- 🔭 I’m currently working on **🚀Data Analyst**
 - 🌱 I have strong grasp on **Data Structures and Algorithms** and I'm always excited to learn **new technologies**.
 - 📑 Get to know about me : [porfolio]()
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Bheeni14)
