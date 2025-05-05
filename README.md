@@ -99,7 +99,6 @@ profile.introduce();
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bheeni14&theme=dark&hide_border=false) 
-[![An image of @Bheeni14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Bheeni14)](https://holopin.io/@Bheeni14)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bheeni14&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## 📐 Activity Graph
