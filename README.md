@@ -1,49 +1,116 @@
-## Hi there 👋
-# 💫 About Me: 
-![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
-<h1 align="center">Hi 👋, I'm Bheeni Agarwal</h1>
-<h3 align="center">"Passionate frontend developer dedicated to crafting seamless and responsive user experiences."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bheeni14&label=Profile%20views&color=0e75b6&style=flat" alt="bheeni14" /> </p>
+# Hi there 👋, I'm Aryaman Gupta!
+## 🌟 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bheeni14" alt="bheeni14" /></a> </p>
+- 🔭 I’m currently working on **🚀Aspiring Data Analyst**
+- 🌱 I have strong grasp on **Data Structures and Algorithms** and I'm always excited to learn **new technologies**.
+- 📑 Get to know about me : [porfolio]()
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Bheeni14)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bheeni-agarwal-0875b6264/)
+- 📫 How to reach me: **[Email me](mailto:bheeniagarwal14@gmail.com)**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![image](https://github.com/Bheeni14/Bheeni14/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
 
-- 💬 Ask me about **HTML<CSS<JS**
+---
 
-- 📫 How to reach me **bheeniagarwal14@gmail.com**
+Welcome to my profile! Here's a quick snippet about me in JavaScript:
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+```javascript
+class GitHubProfile {
+  constructor() {
+    this.username = "Bheeni14";
+    this.name = "Bheeni Agarwal";
+    this.bio = "Aspiring Data Analyst | DSA Enthusiast";
+    this.location = "Ghaziabad, Uttar Pradesh 🌍";
+    this.githubUrl = "https://github.com/Bheeni14";
+    this.skills = [
+      "MongoDB",
+      "SQL",
+      "Data Science",
+      "DSA"
+    ];
+    this.interests = [
+      "Innovative Projects",
+      "Competitive Programming",
+      "Data Structures and Algorithms"
+    ];
+  }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.bheeni14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.bheeni14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/bheeni-agarwal-0875b6264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/bheeni-agarwal-0875b6264" height="30" width="40" /></a>
-</p>
+  introduce() {
+    console.log(`👋 Hello, world! I'm ${this.name}.`);
+    console.log(`${this.bio}`);
+    console.log(`🌍 Current location: ${this.location}`);
+    console.log(`🔗 Check out my GitHub: ${this.githubUrl}`);
+    console.log("\n💡 Achievements:");
+    this.achievements.forEach((achievement) => {
+      console.log(`   - ${achievement}`);
+    });
+    console.log("\n💻 Skills I'm proud of:");
+    this.skills.forEach((skill) => {
+      console.log(`   - ${skill}`);
+    });
+    console.log("\n🚀 Things I love to explore:");
+    this.interests.forEach((interest) => {
+      console.log(`   - ${interest}`);
+    });
+  }
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+const profile = new GitHubProfile();
+profile.introduce();
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheeni14&show_icons=true&locale=en&layout=compact" alt="bheeni14" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bheeni14&show_icons=true&locale=en" alt="bheeni14" /></p>
+## 🖥️ Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheeni14&" alt="bheeni14" /></p>
+## 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--
-**Bheeni14/Bheeni14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Deployment
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Here are some ideas to get you started:
+## 🎨 Other Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Other Skills
+- Authentication (JWT, OAuth)
+- API Integration
+- Web Security
+- Performance Optimization
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Bheeni14&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%206%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bheeni14&theme=dark&hide_border=false) 
+[![An image of @Bheeni14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Bheeni14)](https://holopin.io/@Bheeni14)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bheeni14&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+## 📐 Activity Graph
+[![Bheeni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheeni14&theme=react)](https://github.com/Bheeni14/github-readme-activity-graph)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bheeni14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
+![Visitor Count](https://profile-counter.glitch.me/{Bheeni14}/count.svg)
+![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
