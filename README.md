@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **🚀Data Analyst**
 - 🌱 I have strong grasp on **Data Structures and Algorithms** and I'm always excited to learn **new technologies**.
-- 📑 Get to know about me : [porfolio]()
+- 📑 Get to know about me : [porfolio](https://portfolio-mine-sepia.vercel.app/)
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Bheeni14)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bheeni-agarwal-0875b6264/)
 - 📫 How to reach me: **[Email me](mailto:bheeniagarwal14@gmail.com)**
