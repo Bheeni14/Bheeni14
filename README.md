@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bheeni Agarwal!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Science+Student+%40+AKGEC;Machine+Learning+Engineer;Open+Source+Contributor;Problem+Solver+%7C+150%2B+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor;Problem+Solver+%7C+150%2B+LeetCode" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -124,11 +124,8 @@ I'm a **B.Tech Computer Science and Engineering (Data Science)** student at Ajay
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheeni14&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bheeni14&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeni14&theme=radical&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryam2121&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 </div>
 
