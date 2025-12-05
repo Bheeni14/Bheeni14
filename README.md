@@ -192,7 +192,7 @@ I'm a **B.Tech Computer Science and Engineering (Data Science)** student at Ajay
   
 ### 💬 "Data is the new oil, but insights are the refined fuel that drives innovation."
 
-![Visitor Count](https://profile-counter.glitch.me/Bheeni14/count.svg)
+![Visitor Count](https://hits.sh/github.com/Bheeni14.svg?style=flat-square&label=Visitors&color=orange)
 
 ### Thanks for visiting! ⭐ Star my repos if you find them interesting!
 
