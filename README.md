@@ -1,203 +1,432 @@
-# Hi there 👋, I'm Bheeni Agarwal!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor;Problem+Solver+%7C+150%2B+LeetCode" alt="Typing SVG" />
+
+# 👋 Hi, I'm Bheeni Agarwal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+AKGEC;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;150%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Bheeni14&style=for-the-badge&color=blue" alt="Profile Views" />
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science and Engineering (Data Science)** student at Ajay Kumar Garg Engineering College with a passion for transforming data into actionable insights. I specialize in building end-to-end machine learning solutions and have deployed **5+ ML applications** achieving **80%+ accuracy rates**.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Currently working on **Deep Learning & Neural Network Projects**
-- 🌱 Mastering **TensorFlow, Keras, Natural Language Processing, and Computer Vision**
-- 🎯 Solved **150+ DSA problems** on LeetCode with a **200+ day streak**
-- 🏆 **GirlScript Summer of Code 2025** Contributor - 15+ open-source ML repositories
-- 📊 Built predictive models processing **10,000+ data records** across multiple domains
-- 🎓 Completed **3 certified programs** from IIT Kharagpur in AI & Data Science
-- 📫 Reach me: **bheeniagarwal07@gmail.com**
-- 🌐 Portfolio: [bheeniagarwal1421.vercel.app](https://bheeniagarwal1421.vercel.app/)
+🎓 **B.Tech CSE (Data Science)** student at **Ajay Kumar Garg Engineering College**
+
+💡 Passionate about transforming raw data into actionable insights through **Machine Learning** and **Deep Learning**
+
+🔥 Built **5+ end-to-end ML applications** achieving **80%+ accuracy rates**
+
+📊 Processed **10,000+ data records** across multiple domains
+
+🏆 **GirlScript Summer of Code 2025** - Contributing to **15+ open-source ML repositories**
+
+🎯 **150+ LeetCode problems** solved with a **200+ day streak**
+
+🎓 Completed **3 certified programs** from **IIT Kharagpur** in AI & Data Science
+
+<br clear="right"/>
+
+### 🎯 Current Focus
+
+```python
+class BheeniAgarwal:
+    def __init__(self):
+        self.username = "Bheeni14"
+        self.role = "Data Science Student"
+        self.location = "Ghaziabad, Uttar Pradesh 🇮🇳"
+        self.education = "B.Tech CSE (Data Science) @ AKGEC"
+        
+    def current_work(self):
+        return {
+            "learning": ["Deep Learning", "Neural Networks", "Computer Vision", "NLP"],
+            "building": ["CNN Image Classifiers", "Predictive Models", "ML Pipelines"],
+            "exploring": ["TensorFlow", "Keras", "Apache Spark", "Docker"]
+        }
+    
+    def achievements(self):
+        return {
+            "open_source": "GSSoC'25 Contributor - 15+ repositories",
+            "competitive_coding": "150+ LeetCode problems | 200+ day streak",
+            "certifications": "3x IIT Kharagpur | IBM | UC Davis",
+            "awards": "Best Project Award - AKGEC Tech Fest 2025"
+        }
+```
 
 ---
 
 ## 💼 Professional Experience
 
-### 🎓 Training and Placement Cell Coordinator | AKGEC
-- Managing campus recruitment data for **500+ students** across **6 departments** using MySQL
-- Organized **12 technical workshops** and **8 mock interviews** for **300+ students**
-- Automated workflows reducing coordinator response time by **30%**
+<table>
+<tr>
+<td width="50%">
 
-### 🎨 Graphic Designer | Team Footprints, AKGEC
-- Created **50+ marketing materials** increasing Instagram engagement by **45%**
-- Delivered **15 branding projects** with **48-hour turnaround** time
-- Designed responsive websites viewed by **2,000+ students**
+### 🎓 Training & Placement Cell
+**Student Coordinator @ AKGEC**
+
+- 📊 Managing **500+ students** across **6 departments**
+- 🛠️ Built MySQL database for placement tracking
+- 📈 Organized **12 workshops** + **8 mock interviews**
+- ⚡ Reduced response time by **30%** through automation
+- 👥 Coordinated for **300+ students**
+
+</td>
+<td width="50%">
+
+### 🎨 Team Footprints
+**Graphic Designer @ AKGEC**
+
+- 🎯 Created **50+ marketing materials**
+- 📊 Boosted engagement by **45%** via A/B testing
+- 🚀 Delivered **15 projects** with **48-hour turnaround**
+- 🌐 Designed **3 event websites** for **2,000+ visitors**
+- 🎨 Expert in Figma, Canva, and responsive design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
-### Programming & Scripting
+<div align="center">
+
+### 💻 Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data Science & Analytics
+### 📊 Data Analytics & Visualization
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### Databases
+### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Development Tools
+### 🔧 Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Design Tools
+### 🎨 Design Tools
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🚢 [Titanic Survival Prediction Model](https://github.com/Bheeni14)
-**Tech Stack:** Python | Scikit-learn | Pandas | Logistic Regression
-- Built classification model on **891 records** achieving **82% accuracy** and **0.79 F1-score**
-- Engineered **4 new features** improving precision by **7%**
-- Optimized through **GridSearchCV** with **5-fold cross-validation** (AUC: 0.86)
+<div align="center">
 
-### 📊 [Student Performance Analysis System](https://github.com/Bheeni14)
-**Tech Stack:** Python | Pandas | Matplotlib | Statistical Analysis
-- Analyzed **1,000 student records** across **8 variables** with **p-value < 0.05**
-- Discovered **0.68 correlation** between study time and exam scores
-- Built regression model explaining **61% variance** (R-squared: 0.61)
+<table>
+<tr>
+<td width="50%">
 
-### 🤖 [Image Classification Neural Network](https://github.com/Bheeni14)
-**Tech Stack:** TensorFlow | Keras | CNN
-- Developed CNN classifying **10,000 images** with **89% validation accuracy**
-- Architected **8-layer deep learning model** with data augmentation (**3x samples**)
-- Trained for **50 epochs** using Adam optimizer on GPU
+### 🚢 Titanic Survival Prediction
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Bheeni14)
 
-### 🌤️ [Real-Time Weather Forecast Application](https://github.com/Bheeni14)
-**Tech Stack:** JavaScript | HTML5 | CSS3 | OpenWeather API
-- Built responsive app for **200+ cities** with **1.2s average response time**
-- Achieved **98% location accuracy** using Geolocation API
-- Deployed on Vercel with **99.9% uptime** serving **500+ monthly users**
+**Tech:** Python • Scikit-learn • Pandas • Logistic Regression
+
+✅ **82% accuracy** | 0.79 F1-score on **891 records**  
+✅ Engineered **4 features** → **7% precision boost**  
+✅ GridSearchCV with **5-fold validation** (AUC: 0.86)  
+✅ Handled **177 missing values** with imputation
+
+</td>
+<td width="50%">
+
+### 📊 Student Performance Analysis
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Bheeni14)
+
+**Tech:** Python • Pandas • Matplotlib • Statistics
+
+✅ Analyzed **1,000 students** across **8 variables**  
+✅ Found **0.68 correlation** (p < 0.05)  
+✅ Regression model with **R² = 0.61**  
+✅ **12 visualizations** for data storytelling
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 CNN Image Classifier
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Bheeni14)
+
+**Tech:** TensorFlow • Keras • CNN • GPU
+
+✅ **89% validation accuracy** on **10K images**  
+✅ **8-layer architecture** with dropout  
+✅ Data augmentation → **3x sample increase**  
+✅ **50 epochs** training with Adam optimizer
+
+</td>
+<td width="50%">
+
+### 🌤️ Weather Forecast App
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Bheeni14) [![Live](https://img.shields.io/badge/Live-Visit_Site-00C7B7?style=for-the-badge&logo=vercel)](https://bheeniagarwal1421.vercel.app/)
+
+**Tech:** JavaScript • HTML5 • CSS3 • API
+
+✅ **200+ cities** | **1.2s response time**  
+✅ **98% location accuracy** with Geolocation  
+✅ **99.9% uptime** | **500+ monthly users**  
+✅ Responsive design for all devices
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-### Certifications
-- 🎓 **AI and Data Science Professional Program** - IIT Kharagpur (2024)
-- 🎓 **Machine Learning with Python** - IBM via Coursera (2024)
-- 🎓 **Data Structures and Algorithms in Java** - Coding Ninjas (2024)
-- 🎓 **SQL for Data Science Specialization** - UC Davis via Coursera (2024)
-- 🎓 **Python for Data Science and Machine Learning** - Udemy (2023)
-
-### Achievements
-- 🥇 **Best Project Award** - Data Science Track at AKGEC Tech Fest 2025
-- 🏅 **Top 10%** - Ranked **45/500** at AI Bootcamp by IIT Kharagpur 2024
-- 🌟 **GSSoC'25 Contributor** - Contributing to **15+ open-source ML repositories**
-- 💻 **LeetCode Streak** - **150+ problems solved** with **200+ day streak**
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryam2121&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeni14&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+### 📜 Professional Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="50"/><br/>
+<b>IIT Kharagpur</b><br/>
+AI & Data Science Program<br/>
+<sub>2024</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/ibm.png" width="50"/><br/>
+<b>IBM (Coursera)</b><br/>
+Machine Learning with Python<br/>
+<sub>2024</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="50"/><br/>
+<b>Coding Ninjas</b><br/>
+Data Structures & Algorithms<br/>
+<sub>2024</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/sql.png" width="50"/><br/>
+<b>UC Davis (Coursera)</b><br/>
+SQL for Data Science<br/>
+<sub>2024</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/python.png" width="50"/><br/>
+<b>Udemy</b><br/>
+Python for DS & ML<br/>
+<sub>2023</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="50"/><br/>
+<b>5 Certifications</b><br/>
+From Top Institutions<br/>
+<sub>2023-2024</sub>
+</td>
+</tr>
+</table>
+
+### 🌟 Achievements & Recognition
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/><br/>
+<b>Best Project Award</b><br/>
+<sub>Data Science Track</sub><br/>
+<sub>AKGEC Tech Fest 2025</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/medal.png" width="60"/><br/>
+<b>Top 10% Rank</b><br/>
+<sub>45/500 Participants</sub><br/>
+<sub>IIT KGP AI Bootcamp 2024</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/github.png" width="60"/><br/>
+<b>GSSoC'25 Contributor</b><br/>
+<sub>15+ ML Repositories</sub><br/>
+<sub>Open Source Contributions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br/>
+<b>LeetCode Warrior</b><br/>
+<sub>150+ Problems Solved</sub><br/>
+<sub>200+ Day Streak 🔥</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Bheeni's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheeni14&theme=react-dark&hide_border=true&area=true)](https://github.com/Bheeni14)
-
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bheeni14&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bheeni14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bheeni14&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bheeni14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bheeni14&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bheeni14&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 📈 Contribution Activity
 
 <div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Bheeni's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheeni14&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Bheeni14&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-## 📫 Connect With Me
+## 💻 Coding Statistics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheeni-agarwal-0875b6264)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bheeni14)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bheeni_14/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bheeniagarwal1421.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheeniagarwal07@gmail.com)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/clock.png" width="60"/><br/>
+<b>2,067+ Hours</b><br/>
+<sub>Total Code Time</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br/>
+<b>20,400+ Lines</b><br/>
+<sub>Code Written</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/github.png" width="60"/><br/>
+<b>50+ Repositories</b><br/>
+<sub>Projects Created</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/fire-element.png" width="60"/><br/>
+<b>200+ Day Streak</b><br/>
+<sub>LeetCode Consistency</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💻 Coding Stats
+## 🔝 Top Contributions
 
 <div align="center">
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%206%20mins-blue?style=for-the-badge)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-20.4K%2B-blue?style=for-the-badge)
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Bheeni14&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Daily Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheeni-agarwal-0875b6264)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bheeni14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bheeni_14/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bheeniagarwal1421.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheeniagarwal07@gmail.com)
+
+<br/>
+
+### 📧 **bheeniagarwal07@gmail.com** | 🌐 **[Portfolio](https://bheeniagarwal1421.vercel.app/)** | 📍 **Ghaziabad, India**
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💬 "Data is the new oil, but insights are the refined fuel that drives innovation."
 
-![Visitor Count](https://hits.sh/github.com/Bheeni14.svg?style=flat-square&label=Visitors&color=orange)
+### 💭 Featured Quote
 
-### Thanks for visiting! ⭐ Star my repos if you find them interesting!
+> *"Data is the new oil, but insights are the refined fuel that drives innovation."*
+> 
+> — **Bheeni Agarwal**
 
-</div>
+<br/>
+
+### 📊 Profile Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bheeni14&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Bheeni14?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Bheeni14?label=Total%20Stars&style=for-the-badge&color=yellow)
+
+<br/>
+
+### ⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ---
 
-![Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+**💼 Open for collaborations | 🚀 Always learning | 💡 Building the future with data**
+
+</div>
