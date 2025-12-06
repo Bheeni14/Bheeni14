@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bheeni Agarwal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+AKGEC;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;150%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;150%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Bheeni14&style=for-the-badge&color=blue" alt="Profile Views" />
 
